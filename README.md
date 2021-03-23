@@ -7,4 +7,4 @@
 
 - https://freehtml5.co
   
-  https://github.com/abhinavgupta371/abhinavgupta371.github.io# itspankajrai.github.io
+  https://github.com/abhinavgupta371/abhinavgupta371.github.io
